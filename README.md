@@ -10,11 +10,11 @@ cargo install
 Usage
 =====
 ```
-~/.cargo/hide_my_g --mode encode base.png mixed.png > result.png
+~/.cargo/bin/hide_my_g --mode encode base.png mixed.png > result.png
 ```
 or
 ```
-~/.cargo/hide_my_g --mode decode result.png > decoded.png
+~/.cargo/bin/hide_my_g --mode decode result.png > decoded.png
 ```
 
 Notes
