@@ -1,0 +1,8 @@
+[package]
+name = "hide_my_g"
+version = "0.1.0"
+authors = ["bodqhrohro <bodqhrohro@yandex.ru>"]
+
+[dependencies]
+image = "*"
+arguments = "*"
