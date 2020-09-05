@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["bodqhrohro <bodqhrohro@yandex.ru>"]
 
 [dependencies]
-image = "*"
+image = "0.18.0"
 arguments = "*"
